@@ -1,3 +1,7 @@
+# My result 
+
+Link: [Link to project](https://ehaboo.github.io/frontend-challenge3/)
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
